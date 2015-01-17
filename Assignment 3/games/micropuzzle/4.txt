@@ -1,0 +1,23 @@
+#description
+YOU ARE IN A STORAGE ROOM
+
+#directions
+E3
+W5
+-
+
+#items
+THREAD
+-
+
+#examine
+NOTHING OF INTEREST
+
+#examine_special
+-
+
+#event_text
+OK
+
+#special_actions
+-

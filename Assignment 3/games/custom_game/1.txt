@@ -1,0 +1,15 @@
+#description
+THE HANGER OF A DESERTED ISLAND
+
+#directions
+N2
+-
+
+#items
+-
+
+#examine
+A TROPICAL ISLAND
+
+#event_text
+YOU ARRIVED ON AN ISLAND..

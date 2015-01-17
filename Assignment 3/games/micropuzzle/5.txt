@@ -1,0 +1,23 @@
+#description
+YOU ARE AT THE BACK OF A HALLWAY
+
+#directions
+S8
+W6
+E4
+-
+
+#items
+-
+
+#examine
+NOTHING OF INTEREST
+
+#examine_special
+-
+
+#event_text
+OK
+
+#special_actions
+-

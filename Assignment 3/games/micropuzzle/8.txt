@@ -1,0 +1,22 @@
+#description
+YOU ARE OUTSIDE THE OPEN DOOR OF AN ODDLY PROPORTIONED HOUSE
+
+#directions
+N5
+W7
+-
+
+#items
+-
+
+#examine
+NOTHING OF INTEREST
+
+#examine_special
+-
+
+#event_text
+OK
+
+#special_actions
+-

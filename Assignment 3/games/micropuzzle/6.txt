@@ -1,0 +1,23 @@
+#description
+YOU ARE ON THE EDGE OF A HIGH TABLE
+
+#directions
+E5
+S7
+-
+
+#items
+CHEESE
+-
+
+#examine
+NOTHING OF INTEREST
+
+#examine_special
+-
+
+#event_text
+OK
+
+#special_actions
+-

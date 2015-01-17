@@ -1,0 +1,22 @@
+#description
+YOU ARE IN THE KITCHEN
+
+#directions
+S2
+W4
+-
+
+#items
+-
+
+#examine
+NOTHING OF INTEREST
+
+#examine_special
+-
+
+#event_text
+OK
+
+#special_actions
+-

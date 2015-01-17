@@ -1,0 +1,19 @@
+#description
+YOU ARE IN A JUNGLE AREA
+
+#directions
+S1
+E3
+W4
+-
+
+#items
+BANANA
+TREE
+-
+
+#examine
+JUST A BUSHY FOREST
+
+#event_text
+...

@@ -1,0 +1,23 @@
+#10
+SWITCH
+...
+&3_1
+-
+
+in order to press the switch
+
+#18
+BOTTLE
+A LOUDLY BUZZING FLY FLIES OUT AND THE CAT CHASES AFTER IT!
+&4_1
+-
+
+in order to move E,D
+
+#19
+BOX
+DUST SETTLES
+&5_1
+-
+
+in order to take paper

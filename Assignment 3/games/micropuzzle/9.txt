@@ -1,0 +1,23 @@
+#description
+YOU ARE BY A RAILWAY SIDING
+
+#directions
+S10
+N13
+-
+
+#items
+-
+
+#examine
+NOTHING OF INTEREST
+
+#examine_special
+-
+
+#event_text
+OK
+
+#special_actions
+CLIMB,7
+-

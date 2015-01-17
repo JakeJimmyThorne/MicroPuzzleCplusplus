@@ -1,0 +1,23 @@
+#description
+YOU ARE AT THE BASE OF A TALL PLASTIC TREE ON THE EDGE OF A HIGH TABLE
+
+#directions
+N6
+E8
+-
+
+#items
+-
+
+#examine
+NOTHING OF INTEREST
+
+#examine_special
+-
+
+#event_text
+OK
+
+#special_actions
+CLIMB,9
+-

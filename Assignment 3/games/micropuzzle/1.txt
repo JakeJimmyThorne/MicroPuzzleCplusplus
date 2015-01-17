@@ -1,0 +1,22 @@
+#description
+YOU ARE IN A YELLOW FRONT ROOM
+
+#directions
+E2
+W8
+-
+
+#items
+-
+
+#examine
+NOTHING OF INTEREST
+
+#examine_special
+-
+
+#event_text
+YOU AWAKEN..
+
+#special_actions
+-

@@ -1,0 +1,15 @@
+#description
+YOU ARE AT AN ENTRANCE TO A CAVE
+
+#directions
+E2
+-
+
+#items
+-
+
+#examine
+A DARK AND SCARY CAVE
+
+#event_text
+...

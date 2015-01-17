@@ -1,0 +1,23 @@
+#description
+YOU ARE BY A TV SET AND A RECORDER
+
+#directions
+N3
+W1
+-
+
+#items
+-
+
+#examine
+NOTHING OF INTEREST
+
+#examine_special
+TV,IT IS JUST A BOX WITH A PHOTO STUCK ON
+-
+
+#event_text
+OK
+
+#special_actions
+-

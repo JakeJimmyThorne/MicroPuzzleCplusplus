@@ -1,0 +1,8 @@
+#event_text
+...
+
+#direction_error
+YOU CAN'T GO THAT WAY, SILLY.
+
+#invalid_input
+YOU DON'T MAKE SENSE, OLD CHAP.

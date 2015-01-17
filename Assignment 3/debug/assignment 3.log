@@ -1,0 +1,17 @@
+﻿Build started 07/11/2014 15:09:17.
+     1>Project "D:\Dropbox\Games Technology\Year 2\C++ Development\Assignments\Assignment task 3\Assignment 3\Assignment 3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Assignment 3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Assignment 3.vcxproj -> D:\Dropbox\Games Technology\Year 2\C++ Development\Assignments\Assignment task 3\Debug\Assignment 3.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Assignment 3.unsuccessfulbuild".
+         Touching "Debug\Assignment 3.lastbuildstate".
+     1>Done Building Project "D:\Dropbox\Games Technology\Year 2\C++ Development\Assignments\Assignment task 3\Assignment 3\Assignment 3.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04

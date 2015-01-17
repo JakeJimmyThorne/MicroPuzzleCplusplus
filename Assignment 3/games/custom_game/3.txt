@@ -1,0 +1,16 @@
+#description
+YOU APPEAR AT THE DOOR OF AN ANCIENT CASTLE
+
+#directions
+W2
+-
+
+#items
+DOOR-BELL
+-
+
+#examine
+NOTHING OF INTEREST
+
+#event_text
+...

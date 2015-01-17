@@ -1,0 +1,8 @@
+#15
+CHEESE
+THE MOUSE RUNS OFF WITH IT
+&2_1
+-
+
+cheese link lets you move when the link is
+complete

@@ -1,0 +1,24 @@
+#event_text
+OK
+
+#direction_error
+YOU CANNOT GO THAT WAY
+
+#invalid_input
+YOU DO NOT MAKE SENSE
+
+#item_not_here
+IT IS NOT HERE
+
+#item_not_used
+YOU HAVE NOT USED 
+
+#player_!have_item
+YOU DO NOT HAVE 
+
+#pick_up_item
+YOU HAVE THE 
+
+#command_only_error
+I NEED TWO WORDS
+
